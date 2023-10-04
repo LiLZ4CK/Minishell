@@ -3,7 +3,8 @@ minishell is a Unix-like shell written in [C](https://en.wikipedia.org/wiki/C_(p
 This project was done in pairs.
 ## Content
 - [Instructions](#features)
-- [Brief Summary](#brief-summary) 
+- - [Resources](#resources)
+- - [Syntax Rules](#Syntax_Rules)
 
 # Instructions
 project must be written in C.
